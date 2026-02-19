@@ -64,10 +64,9 @@ If you use these models in your research, please cite:
 ```
 [Citation pending publication]
 ```
-
 ## License
 
-[Specify license]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
