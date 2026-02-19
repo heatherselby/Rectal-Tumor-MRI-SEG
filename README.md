@@ -61,8 +61,16 @@ Radiomic features were extracted from post-treatment ADC maps, filtered by repro
 
 If you use these models in your research, please cite:
 
-```
-[Citation pending publication]
+```bibtex
+@article{selby2026deeplearning,
+  title={Deep learning analysis of MRI to assess rectal cancer treatment},
+  author={Selby, Heather M. and Son, Ashley Y. and Sheth, Vipul R. and Wagner, Todd H. and Pollom, Erqi L. and Morris, Arden M.},
+  journal={Frontiers in Oncology},
+  volume={15},
+  pages={1643852},
+  year={2026},
+  doi={10.3389/fonc.2025.1643852}
+}
 ```
 ## License
 
